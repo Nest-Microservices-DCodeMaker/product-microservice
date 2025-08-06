@@ -16,7 +16,7 @@ steps:
 
 availableSecrets:
   secretManager:
-  - versionName: projects/109478456334/secrets/products_database_url
+  - versionName: projects/109478456334/secrets/products_database_url/versions/1
     env: 'DATABASE_URL'
 
 options:
